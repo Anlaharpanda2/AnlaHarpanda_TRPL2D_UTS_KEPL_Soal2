@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./assets/CnnView.png" alt="CNBC Backend" width="400"/><br/>CNBC Backend
+      <img src="./assets/CnnView.png" alt="CNBC Backend" width="400"/><br/>CNN Frontend
     </td>
     <td align="center">
       <img src="./assets/CnnBackend.png" alt="CNN Backend" width="400"/><br/>CNN Backend
@@ -13,7 +13,7 @@
       <img src="./assets/CnbcView.png" alt="CNBC Frontend" width="400"/><br/>CNBC Frontend
     </td>
     <td align="center">
-      <img src="./assets/CnbcBackend.png" alt="CNN Frontend" width="400"/><br/>CNN Frontend
+      <img src="./assets/CnbcBackend.png" alt="CNN Frontend" width="400"/><br/>CNBC Backend
     </td>
   </tr>
 </table>
