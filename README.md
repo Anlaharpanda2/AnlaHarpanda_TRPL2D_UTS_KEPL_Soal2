@@ -1,6 +1,6 @@
-<p align="center">
-  <b><h1>UTS KonstrksiPL Anla Soal 2</h1></b>
-</p>
+<div align="center">
+  <b><h2>UTS KonstrksiPL Anla Soal 2</h2></b>
+</div>
 
 <table>
   <tr>
