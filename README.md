@@ -19,7 +19,7 @@
 
 ---
 <div align="center">
-  <b><h1>UTS KonstrksiPL Anla Soal 2</h1></b>
+  <b><h1>UTS Konstrksi Dan Evolusi PL Anla Soal 2</h1></b>
 </div>
 
 # News Application
