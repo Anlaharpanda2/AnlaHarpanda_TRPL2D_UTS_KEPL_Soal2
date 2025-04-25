@@ -30,10 +30,10 @@ Aplikasi ini menggunakan dua framework utama:
 Aplikasi ini memanfaatkan dua API dari RapidAPI:
 
 - **CNN API**:  
-  `https://indonesia-news.p.rapidapi.com/detail/cnn?url=<URL_BERITA_CNN>`
+  `https://indonesia-news.p.rapidapi.com/detail/cnn`
   
 - **CNBC API**:  
-  `https://indonesia-news.p.rapidapi.com/detail/cnbc?url=<URL_BERITA_CNBC>`
+  `https://indonesia-news.p.rapidapi.com/detail/cnbc`
 
 Gantilah `<URL_BERITA_CNN>` dan `<URL_BERITA_CNBC>` dengan URL berita yang sesuai, yang telah di-encode.
 
